@@ -1,0 +1,4 @@
+[core]
+    remote = local_temp_storage
+['remote "local_temp_storage"']
+    url = C:\Users\satya\AppData\Local\Temp\mlops_project1_dvc_data
